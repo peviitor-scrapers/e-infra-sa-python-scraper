@@ -8,7 +8,7 @@
 | Brand | E-INFRA |
 | Website | https://e-infra.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-10-14 |
+| LastScraped | 2026-10-15 |
 
 ## Jobs (6)
 
@@ -16,12 +16,6 @@
 
 - **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/oGtJRnEtGr](https://electrogrup.applytojob.com/apply/jobs/details/oGtJRnEtGr)
 - **Location**: Cluj-Napoca
-- **Status**: scraped
-
-### Learning & Development Specialist (L&D) - on site
-
-- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/Eju5zWOJyQ](https://electrogrup.applytojob.com/apply/jobs/details/Eju5zWOJyQ)
-- **Location**: Bucharest
 - **Status**: scraped
 
 ### Network & Security Engineer – OT / Industrial Networks
@@ -34,6 +28,12 @@
 
 - **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/XU0HhNMQJg](https://electrogrup.applytojob.com/apply/jobs/details/XU0HhNMQJg)
 - **Location**: Cluj-Napoca
+- **Status**: scraped
+
+### System Administrator L2
+
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd](https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd)
+- **Location**: România
 - **Status**: scraped
 
 ### Network and Infrastructure Security Engineer L3
@@ -49,4 +49,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-10-14T11:38:03Z_
+_Generated at 2026-10-15T11:16:42Z_
