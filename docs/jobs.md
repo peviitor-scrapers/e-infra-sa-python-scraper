@@ -8,7 +8,7 @@
 | Brand | E-INFRA |
 | Website | https://e-infra.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-10-23 |
+| LastScraped | 2026-10-24 |
 
 ## Jobs (8)
 
@@ -20,13 +20,13 @@
 
 ### Network & Security Engineer – OT / Industrial Networks
 
-- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/etRl3D4zHP](https://electrogrup.applytojob.com/apply/jobs/details/etRl3D4zHP)
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/LWJJiTCyF7](https://electrogrup.applytojob.com/apply/jobs/details/LWJJiTCyF7)
 - **Location**: Bucuresti
 - **Status**: scraped
 
 ### Network & Security Engineer – OT / Industrial Networks
 
-- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/XU0HhNMQJg](https://electrogrup.applytojob.com/apply/jobs/details/XU0HhNMQJg)
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/iA6z785oQd](https://electrogrup.applytojob.com/apply/jobs/details/iA6z785oQd)
 - **Location**: Cluj-Napoca
 - **Status**: scraped
 
@@ -56,9 +56,9 @@
 
 ### Specialist Administrare Retele Industriale (OT)
 
-- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/JbFePKBFiy](https://electrogrup.applytojob.com/apply/jobs/details/JbFePKBFiy)
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/V3gVH4MgG2](https://electrogrup.applytojob.com/apply/jobs/details/V3gVH4MgG2)
 - **Location**: Cluj-Napoca
 - **Status**: scraped
 
 ---
-_Generated at 2026-10-23T11:25:39Z_
+_Generated at 2026-10-24T10:44:47Z_
