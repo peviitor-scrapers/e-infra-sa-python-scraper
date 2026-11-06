@@ -8,15 +8,9 @@
 | Brand | E-INFRA |
 | Website | https://e-infra.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-11-05 |
+| LastScraped | 2026-11-06 |
 
-## Jobs (8)
-
-### Economist (Contract pe perioada determinata – 2 ani - on-site)
-
-- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/oGtJRnEtGr](https://electrogrup.applytojob.com/apply/jobs/details/oGtJRnEtGr)
-- **Location**: Cluj-Napoca
-- **Status**: scraped
+## Jobs (7)
 
 ### Network & Security Engineer – OT / Industrial Networks
 
@@ -61,4 +55,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-05T14:28:35Z_
+_Generated at 2026-11-06T14:05:34Z_
