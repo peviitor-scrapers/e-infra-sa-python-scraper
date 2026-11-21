@@ -8,9 +8,9 @@
 | Brand | E-INFRA |
 | Website | https://e-infra.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-11-20 |
+| LastScraped | 2026-11-21 |
 
-## Jobs (7)
+## Jobs (6)
 
 ### Network & Security Engineer – OT / Industrial Networks
 
@@ -28,12 +28,6 @@
 
 - **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/IGKJj20vVq](https://electrogrup.applytojob.com/apply/jobs/details/IGKJj20vVq)
 - **Location**: Bucuresti
-- **Status**: scraped
-
-### System Administrator L2
-
-- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd](https://electrogrup.applytojob.com/apply/jobs/details/4gesjRpnGd)
-- **Location**: România
 - **Status**: scraped
 
 ### Talent Acquisition Specialist - on site
@@ -55,4 +49,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-20T15:16:10Z_
+_Generated at 2026-11-21T14:30:09Z_
