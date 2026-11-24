@@ -8,7 +8,7 @@
 | Brand | E-INFRA |
 | Website | https://e-infra.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-11-23 |
+| LastScraped | 2026-11-24 |
 
 ## Jobs (6)
 
@@ -26,7 +26,7 @@
 
 ### Recruitment Manager - on site
 
-- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/IGKJj20vVq](https://electrogrup.applytojob.com/apply/jobs/details/IGKJj20vVq)
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/uvnxfi0SRZ](https://electrogrup.applytojob.com/apply/jobs/details/uvnxfi0SRZ)
 - **Location**: Bucuresti
 - **Status**: scraped
 
@@ -49,4 +49,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-23T17:54:12Z_
+_Generated at 2026-11-24T17:26:51Z_
