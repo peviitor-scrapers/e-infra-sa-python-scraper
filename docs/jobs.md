@@ -8,9 +8,9 @@
 | Brand | E-INFRA |
 | Website | https://e-infra.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-11-25 |
+| LastScraped | 2026-11-26 |
 
-## Jobs (6)
+## Jobs (7)
 
 ### Network & Security Engineer – OT / Industrial Networks
 
@@ -22,6 +22,12 @@
 
 - **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/iA6z785oQd](https://electrogrup.applytojob.com/apply/jobs/details/iA6z785oQd)
 - **Location**: Cluj-Napoca
+- **Status**: scraped
+
+### PR Manager
+
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/ekBMMV5369](https://electrogrup.applytojob.com/apply/jobs/details/ekBMMV5369)
+- **Location**: Bucuresti
 - **Status**: scraped
 
 ### Recruitment Manager - on site
@@ -49,4 +55,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-25T17:03:04Z_
+_Generated at 2026-11-26T16:43:55Z_
